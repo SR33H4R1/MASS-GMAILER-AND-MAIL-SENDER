@@ -1,5 +1,7 @@
 # MASS-MAILER-AND-MAIL-SENDER
 
+A python script that can send mails
+
 ![Image of Yaktocat](https://i.ibb.co/4W9kzzm/rsz-screenshot-9.png)
 
 # REQUIREMENTS
